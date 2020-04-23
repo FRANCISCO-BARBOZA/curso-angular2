@@ -1,0 +1,11 @@
+.bg-light {
+	background-color: #b2ccd3!important;
+}
+
+.nav-link.ativo {
+	background-color: #c0c0c0;
+}
+
+.btn {
+	border: 0px;
+}
